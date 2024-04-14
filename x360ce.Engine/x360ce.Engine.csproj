@@ -521,6 +521,7 @@
     <Compile Include="Maps\Map.cs" />
     <Compile Include="Maps\MapEventType.cs" />
     <Compile Include="Maps\MapRpmType.cs" />
+    <Compile Include="Maps\TapZone.cs" />
     <Compile Include="Maps\TargetType.cs" />
     <Compile Include="Maps\SettingName.cs" />
     <Compile Include="Maps\SettingsConverter.cs" />
